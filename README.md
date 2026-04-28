@@ -3,12 +3,14 @@ The dashboard helps in identifying high-performing products, regions, and sales 
 **Tools & Technologies Used**
 Power BI (Data Visualization & Dashboarding)
 Microsoft Excel (Data Source & Cleaning)
+
 **Key Metrics (KPIs)**
 Total Sales: 302.80M
 Total Profit: 43.49M
 Total Quantity Sold: 13,917
 Total Orders: 2521
 Profit Margin: 13.62%
+
 **Dashboard Insights**
 1. Regional Performance
 Sales and profit are distributed across East, West, North, and South regions
