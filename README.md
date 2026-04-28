@@ -1,3 +1,5 @@
+<img width="1348" height="724" alt="Screenshot 2026-03-25 165052" src="https://github.com/user-attachments/assets/fc84a6f2-66ac-4b7b-b53a-fd2b77182293" />
+<img width="1355" height="726" alt="Screenshot 2026-03-25 165126" src="https://github.com/user-attachments/assets/c96cd801-b439-470b-8dc4-5f7b5c391956" />
 The dashboard helps in identifying high-performing products, regions, and sales channels, enabling better business decisions.
 
 **Tools & Technologies Used**
